@@ -1,16 +1,46 @@
-# zikirmatik
+# Zikirmatik Uygulaması
 
-A new Flutter project.
+Bu Flutter uygulaması, bir zikirmatik (dua tespihi sayacı) işlevi görmektedir. Kullanıcılar, butona tıklayarak sayıyı artırabilir ve küçük bir buton ile sayacı sıfırlayabilir.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- **Sayaç Artırma**: Büyük butona tıklandığında sayaç değeri artar.
+- **Sayaç Sıfırlama**: Küçük butona tıklandığında sayaç değeri sıfırlanır.
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüsü
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Ekran görüntüsü 2024-08-06 003509](https://github.com/user-attachments/assets/de14eff8-d107-4aab-89a4-03cee48e51e8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum ve Kullanım
+
+1. Bu projeyi yerel bilgisayarınıza klonlayın:
+
+    ```sh
+    git clone https://github.com/kullaniciadi/zikirmatik.git
+    ```
+
+2. Proje dizinine gidin:
+
+    ```sh
+    cd zikirmatik
+    ```
+
+3. Gerekli bağımlılıkları yükleyin:
+
+    ```sh
+    flutter pub get
+    ```
+
+4. Uygulamayı çalıştırın:
+
+    ```sh
+    flutter run
+    ```
+
+## Katkıda Bulunma
+
+Katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Her türlü katkı ve geri bildirim memnuniyetle karşılanacaktır.
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
